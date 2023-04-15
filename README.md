@@ -5,9 +5,11 @@ This is a simple two-player arcade game built using Pygame. Players control spac
 ## Basic Controls
 
 Player 1: Movement - W, A, S, D
+          
           Shoot - LCTRL
 
 Player 2: Movement - Arrow Keys
+          
           Shoot - RCTRL
           
 - Players start with 10 health points.
